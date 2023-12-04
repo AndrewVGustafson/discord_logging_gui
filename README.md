@@ -1,4 +1,5 @@
 # discord-log-gui
+CREATED BY ANDREW GUSTAFSON AND IAN CULBERT - 2022
 A GUI that lets you see every message sent in your discord account
 
 To use this application, you will need your token.
