@@ -1,0 +1,4 @@
+.env
+client_user_logs.txt
+session_key_logs.txt
+__pycache__/
